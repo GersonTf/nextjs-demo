@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          I am Gerson Cabrera, a new programming vtuber!, never contact me please.
+          I am Gerson Cabrera, a new programming vtuber!, never contact me please!!.
         </p>
         <p>
           (This is a sample website - you’ll be building a site like this on{" "}
